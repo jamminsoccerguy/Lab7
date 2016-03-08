@@ -1,0 +1,31 @@
+
+Name: Al
+Phone: 6123258594
+Address: 
+Comments: 
+
+Name: Catherine
+Phone: 6129871534
+Address: 8342 Studio Ln
+Comments: 
+Email: cathyp@hotmail.com
+Group: UofM
+Quick Reference: Cathy
+
+Name: Greg
+Phone: 9521231234
+Address: 1324 Main Street
+Comments: 
+
+Name: Mike
+Phone: 8309991234
+Address: 1234 Pleasent Street
+Comments: Cool dude
+
+Name: Ashely
+Phone: 7638984635
+Address: 
+Comments: 
+Email: ahsleyp@gmail.com
+Group: 
+Quick Reference: 
