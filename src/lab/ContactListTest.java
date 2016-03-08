@@ -5,6 +5,10 @@ package lab;
  * Date: 3/8/2016
  * Class: CSCI 1933-12
  */
+
+/**
+ * Lab 7: More Testing of ContactList Class
+ */
 public class ContactListTest {
 
     public static void main(String[] args) {
